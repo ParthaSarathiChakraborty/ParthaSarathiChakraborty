@@ -1,4 +1,4 @@
-Hi 👋 My name is Partha Sarathi
+Hi, My name is Partha Sarathi
 ===============================
 
 Data Analyst
