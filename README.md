@@ -8,7 +8,7 @@ Data has always fascinated me. The undeniable fact that we can leverage the powe
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [parthagsarathim@gmail.com](mailto:parthagsarathim@gmail.com)
-* 🧠  I use SQL, Python, Tableau, R, MS-Excel and Google Sheets and Google Cloud Architecture,A-Kafka,A-Spark,hadoop
+* 🧠  I use SQL, Python, Tableau, R, MS-Excel and Google Sheets and Google Cloud Architecture,A-Kafka,A-Spark,
 * 🤝  I'm open to collaborating on Data Analytics project
 
 ### Skills
