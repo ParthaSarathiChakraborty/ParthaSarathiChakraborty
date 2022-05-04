@@ -6,9 +6,9 @@ Data Analyst || Data Engineer
 
 Data has always fascinated me. The undeniable fact that we can leverage the power of data to create an impact on the people around us and the society is what brings me here. I love working "with" and "for" people towards the greater good.
 
-* 🌍  I'm based in India
+* I'm based in India
 * ✉️  You can contact me at [parthagsarathim@gmail.com](mailto:parthagsarathim@gmail.com)
-* 🧠  I use SQL, Python, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark), Kubernetes and docker.
+* I use SQL, Python, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark), Kubernetes and docker.
 * 🤝  I'm open to collaborating on Data Analytics project
 
 ### Skills
