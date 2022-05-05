@@ -8,7 +8,7 @@ Data has always fascinated me. The undeniable fact that we can leverage the powe
 
 * I'm based in India
 * ✉️  You can contact me at [parthagsarathim@gmail.com](mailto:parthagsarathim@gmail.com)
-* I use SQL, Python, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark), Kubernetes and docker.
+* I use SQL, Python, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark and Airflow), Kubernetes and docker.
 * 🤝  I'm open to collaborating on Data Science projects and Case Studies.
 * Did I mention ? that I'm also an open source contributor at kaggle, making my way through by solving business problems and contributing datasets to the community. Well now you do.
 
