@@ -1,18 +1,15 @@
 <h1 align="center">Hi, it's Partha</h1>
 <h3 align="center">Data Analyst || Data Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthasarathichakraborty" alt="parthasarathichakraborty" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
-- 🔭 I’m currently working on **Business Case studies and Data Science Projects**
+- I’m currently working on **Business Case studies and Data Science Projects**
 
--  I’m from India (OPEN TO RELOCATION AND REMOTE OPPORTUNITIES)
+- **I’m from India (OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES)**
 
-- 🤝 I work with **SQL, Python: Numpy,Matplotlib,Pandas and Scikit Learn, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark and Airflow), Kubernetes and docker.**
+- I work with **SQL, Python: Numpy,Matplotlib,Pandas and Scikit Learn, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark and Airflow), Kubernetes and docker.**
 
-- **Did I mention ? that I'm also an open source contributor at kaggle, making my way through by solving business problems and contributing datasets to the community. Well now you do.**
-
+- **Well did I mention ? that I'm also an opensource contributor at kaggle. Making my way through by contributing datasets to the community and solving various business problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
