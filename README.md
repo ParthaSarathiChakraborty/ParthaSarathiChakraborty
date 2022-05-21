@@ -1,5 +1,5 @@
 <h1 align="center">Hi, it's Partha</h1>
-<h3 align="center">Data Analyst || Data Engineer</h3>
+<h3 align="center">**Data Analyst || Data Engineer**</h3>
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
