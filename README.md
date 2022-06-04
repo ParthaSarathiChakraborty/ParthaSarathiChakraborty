@@ -7,7 +7,7 @@
 
 - **I’m from India (OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES)**
 
-- I work with **SQL, Python: Numpy,Matplotlib,Pandas and Scikit Learn, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka,Spark,beam and Airflow), Kubernetes and docker.**
+- I work with **SQL, Python: Numpy,Matplotlib,Pandas and Scikit Learn, Tableau, R, MS-Excel and Google Cloud Architecture,Apache(Kafka(Pub/Sub),Spark(PySpark),beam and Airflow(Cloud Composer)), Kubernetes and docker.**
 
 - **Well did I mention ? that I'm also an opensource contributor at kaggle. Making my way through by contributing datasets to the community and solving various business problems.**
 
