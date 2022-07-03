@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
-- I’m currently working on **Business Case studies and Data Science Projects**
+- I’m currently working on **Business Case studies and Data Science Projects and Machine Learning Algorithms**
 
 - **I’m from India (OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES)**
 
