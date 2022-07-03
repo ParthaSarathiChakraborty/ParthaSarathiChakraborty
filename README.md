@@ -5,7 +5,7 @@
 
 - I’m currently working on **Business Case studies and Data Science Projects and Machine Learning Algorithms**
 
-- **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES **
+- **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
 - I work with **SQL, Python: Numpy,Matplotlib,Pandas and Scikit Learn, Tableau(Data Visualization), R and R-Studio, MS-Excel and Google Cloud Architecture,Apache(Kafka(Pub/Sub),Spark(PySpark),beam and Airflow(Cloud Composer)),docker and Machine Learning algorithms.**
 
