@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthasarathichakraborty&show_icons=true&theme=dark&locale=en" alt="parthasarathichakraborty" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthasarathichakraborty&theme=highcontrast" alt="parthasarathichakraborty" /></p>
+
