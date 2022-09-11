@@ -1,4 +1,4 @@
-<h1 align="center">Hello, it's me, Partha</h1>
+<h1 align="center">Hello, it's Partha Sarathi</h1>
 <h3 align="center">Data Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
@@ -7,7 +7,7 @@
 
 - **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **Python| Scala | Excel | Google Cloud | R | SQL | Looker | Tableau | Bigdata | Kafka | Spark | Hadoop | Java | Docker | Machine Learning | A/B Testing | Kubernetes | API | CI/CD | Jenkins | Git | Hive | Airflow | Oozie | Beam and Statistical Mathematics.**
+- I work with **Python| Scala | Excel | Google Cloud and A.W.S | R | SQL | Looker | Tableau | Bigdata | Kafka | Spark | Hadoop | Java | Docker | Machine Learning | A/B Testing | Kubernetes | API | CI/CD | Jenkins | Git | Hive | Airflow | Oozie | Beam and Statistical Mathematics.**
 
 - **Well did I mention ? that I'm also an opensource contributor at kaggle. Making my way through by contributing datasets to the community and solving various business problems.**
 
