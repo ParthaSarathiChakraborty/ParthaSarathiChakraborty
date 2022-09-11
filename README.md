@@ -1,13 +1,13 @@
 <h1 align="center">Hello, it's me, Partha</h1>
-<h3 align="center">**Data Analyst || Data Engineer**</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
-- I work on **Business Case studies and Data Science Projects and Machine Learning Algorithms**
+- I work on **Data Engineering and Big-data Projects and Machine Learning Algorithms**
 
 - **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **SQL, Python: Numpy,Matplotlib,Pandas and Scikit Learn, Tableau(Data Visualization), R and R-Studio, Microsoft Excel and Google Cloud ,Apache(Kafka(Pub/Sub),Spark(PySpark),beam and Airflow(Cloud Composer)),docker and Machine Learning algorithms and Statistical Mathematics.**
+- I work with **Python| Scala | Excel | Google Cloud | R | SQL | Looker | Tableau | Bigdata | Kafka | Spark | Hadoop | Java | Docker | Machine Learning | A/B Testing | Kubernetes | API | CI/CD | Jenkins | Git | Hive | Airflow | Oozie | Beam and Statistical Mathematics.**
 
 - **Well did I mention ? that I'm also an opensource contributor at kaggle. Making my way through by contributing datasets to the community and solving various business problems.**
 
