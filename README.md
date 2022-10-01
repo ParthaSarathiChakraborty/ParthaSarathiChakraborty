@@ -7,7 +7,7 @@
 
 - **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **Python| Scala | Excel | Google Cloud and A.W.S | R | SQL | Looker | Tableau | Bigdata | Kafka | Spark | Hadoop | Java | Docker | Machine Learning | A/B Testing | Kubernetes | API | CI/CD | Jenkins | Git | Hive | Airflow | Oozie | Beam and Statistical Mathematics.**
+- I work with **Data Engineer. Python | Scala | Google Cloud | SQL | Looker| AWS | Bigdata | Kafka | Spark | Hadoop| Docker | Machine Learning | A/B Testing | Kubernetes | Rest API |CI/CD pipeline| Jenkins | Git | Linux | Airflow| Oozie | Beam and Statistical Mathematics.**
 
 - **Well did I mention ? that I'm also an opensource contributor at kaggle. Making my way through by contributing datasets to the community and solving various business problems.**
 
