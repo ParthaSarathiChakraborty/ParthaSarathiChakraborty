@@ -1,15 +1,15 @@
-<h1 align="center">Hello, it's Partha Sarathi</h1>
-<h3 align="center">Data Engineer</h3>
+<h1 align="center">Hi, it's Partha Sarathi</h1>
+<h3 align="center">I'm a Data Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
 - I work on **Data Engineering and Big-data Projects and Machine Learning Algorithms**
 
-- **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
+- **I’m from India - ALWAYS OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **Python | Scala | Google Cloud | SQL | Looker| AWS | Bigdata | Kafka | Spark | Hadoop| Docker | Machine Learning | A/B Testing | Kubernetes | Rest API |CI/CD pipeline| Jenkins | Git | Linux | Airflow| Oozie | Beam and Statistical Mathematics.**
+- I work with **Python | Scala | Google Cloud | SQL | Looker| AWS | Bigdata | Kafka | Spark | Hadoop| Docker | Machine Learning | A/B Testing | Kubernetes | Rest API |CI/CD pipeline| Jenkins | Git | Linux | Airflow | Oozie | Beam | gRPC.**
 
-- **Well did I mention ? that I'm also an opensource contributor at kaggle. Making my way through by contributing datasets to the community and solving various business problems.**
+- **Well did I mention ? that I'm also an opensource contributor at kaggle, where I participate in various competitions held worldwide by kaggle and Interact with a diverse team of data analysts, engineers and data scientists.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
