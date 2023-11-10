@@ -5,15 +5,14 @@
 
 - I work on **Data Engineering and Big-data Projects and Machine Learning Algorithms**
 
-- **I’m from India - ALWAYS OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
+- **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **Python | Scala | Google Cloud | SQL | Looker| AWS | Bigdata | Kafka | Spark | Hadoop| Docker | Machine Learning | A/B Testing | Kubernetes | Rest API |CI/CD pipeline| Jenkins | Git | Linux | Airflow | Oozie | Beam | gRPC.**
+- I work with **Python | Scala | Google Cloud | SQL | AWS | Kafka | Spark | Docker | Machine Learning | Kubernetes | Rest API |CI/CD pipeline| Jenkins | Git | Linux | Airflow.**
 
-- **Well did I mention ? that I'm also an opensource contributor at kaggle, where I participate in various competitions held worldwide by kaggle and Interact with a diverse team of data analysts, engineers and data scientists.**
+- **I'm also an opensource contributor at kaggle, where I participate in various competitions held worldwide by kaggle and Interact with a diverse team of data analysts, engineers and data scientists.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parthacsarathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthacsarathi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parthasarathicharavarty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthasarathicharavarty" height="30" width="40" /></a>
 <a href="https://kaggle.com/psarathic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="psarathic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/communityninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="communityninja" height="30" width="40" /></a>
