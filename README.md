@@ -1,13 +1,13 @@
 <h1 align="center">Hi, it's Partha Sarathi</h1>
-<h3 align="center">I'm a Data Engineer</h3>
+<h3 align="center">I'm a Financial/Quantitative analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
-- I work on **Data Engineering and Big-data Projects and Machine Learning Algorithms**
+- I work on **Financial Engineering and projects and AI Algorithms**
 
 - **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **Python | Scala | Google Cloud | SQL | AWS | Kafka | Spark | Docker | Machine Learning | Kubernetes | Rest API |CI/CD pipeline| Jenkins | Git | Linux | Airflow.**
+- I work with **Python | GenAI algorithms | Google Cloud | SQL | AWS | Kafka | Spark | Docker | Machine Learning | Financial accounting | Finance |CI/CD pipeline| Excel | Git | Linux | Airflow.**
 
 - **I'm also an opensource contributor at kaggle, where I participate in various competitions held worldwide by kaggle and Interact with a diverse team of data analysts, engineers and data scientists.**
 
