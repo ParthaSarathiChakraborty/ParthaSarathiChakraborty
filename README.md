@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/parthacsarathi" target="blank"><img src="https://img.shields.io/twitter/follow/parthacsarathi?logo=twitter&style=for-the-badge" alt="parthacsarathi" /></a> </p>
 
-- I work on **Financial Engineering and projects and AI Algorithms**
+- I work on **Capital Markets, Quantitative analysis and AI Algorithms**
 
 - **I’m from India - OPEN TO RELOCATION AND/OR REMOTE OPPORTUNITIES**
 
-- I work with **Python | GenAI algorithms | Google Cloud | SQL | AWS | Kafka | Spark | Docker | Machine Learning | Financial accounting | Finance |CI/CD pipeline| Excel | Git | Linux | Airflow.**
+- I work with **Python | AI algorithms | Google Cloud | SQL | AWS | Spark | Docker | Machine Learning | Financial engineering | Finance | Excel | Git | Linux.**
 
-- **I'm also an opensource contributor at kaggle, where I participate in various competitions held worldwide by kaggle and Interact with a diverse team of data analysts, engineers and data scientists.**
+- **I'm also an opensource contributor at kaggle, where I participate in various competitions held worldwide by kaggle and interact with a diverse team of data analysts, engineers and data scientists.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
